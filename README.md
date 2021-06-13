@@ -10,7 +10,7 @@ Github: https://github.com/thamizhselvananbu/hospitalvisitmanagement/tree/master
 
 2.Use IntelliJ -> Go to File -> New -> Modeule from existing sources
 
-3. choose import module from external model with gradle
+3.choose import module from external model with gradle
 
 
 
